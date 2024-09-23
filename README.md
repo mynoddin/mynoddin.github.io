@@ -37,7 +37,7 @@ I am a dedicated researcher and academician with expertise in **Artificial Intel
    _M. J. Alam, D. Sarma, R. J. Chakma, M. Mynoddin, S. Chowdhury_  
    [DOI: 10.1109/TENSYMP52854.2021.9550811](https://doi.org/10.1109/TENSYMP52854.2021.9550811)
 
-_For a complete list of my publications, please visit my [Google Scholar Profile]([https://scholar.google.com/citations?user=GJdr1I0AAAAJ&hl=en])._
+_For a complete list of my publications, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=GJdr1I0AAAAJ&hl=en)._
 
 ---
 ## 🎓 Education
@@ -45,12 +45,10 @@ _For a complete list of my publications, please visit my [Google Scholar Profile
 ### **Master of Science (Engg.) in Information and Communication Technology**  
 _Comilla University, Cumilla, Bangladesh_  
 **CGPA**: 3.75/4.00  
-_Completed in 2017_
 
 ### **Bachelor of Science (Engg.) in Information and Communication Technology**  
 _Comilla University, Cumilla, Bangladesh_  
 **CGPA**: 3.78/4.00  
-_Completed in 2015_
 
 ---
 
@@ -84,11 +82,8 @@ _Completed in 2015_
 ## 🚀 Research Projects
 
 - **Master's Thesis**: _Object Detection using Convolutional Neural Networks (CNNs)_  
-   - _Supervised by Dr. Dulal Chakraborty, Comilla University_
-   
+  
 - **Bachelor's Senior Year Project**: _Face Recognition Using Eigenvector and Principal Component Analysis (PCA)_  
-   - _Supervised by Dr. Dulal Chakraborty, Comilla University_
-
 ---
 
 ## 🏆 Awards & Certifications
@@ -122,4 +117,4 @@ _Completed in 2015_
 
 - **Email**: mynoddin@rmstu.ac.bd  
 - **LinkedIn**: [Md Mynoddin](https://www.linkedin.com/in/mynoddin)  
-- **GitHub**: [mynoddin](https://github.com/mynoddin)  
+- **GitHub**: [Mynoddin](https://github.com/mynoddin)  
