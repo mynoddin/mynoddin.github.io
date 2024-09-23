@@ -4,7 +4,7 @@ _Rangamati Science and Technology University, Bangladesh_
 
 ![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourgithubusername?style=social)
 
-I am a dedicated researcher and academician with expertise in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Cyber Security**. My work aims to advance technologies that improve human lives, security, and system efficiency. I am passionate about applying deep learning techniques to solve real-world problems in image processing, bioinformatics, and beyond.
+I am a dedicated researcher and academician with expertise in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Cyber Security**. My work aims to advance technologies and work for new technologies that improve human lives, security, and system efficiency. I am passionate about applying deep learning techniques to solve real-world problems in NLP, image processing, bioinformatics, and beyond.
 
 ---
 
@@ -16,6 +16,7 @@ I am a dedicated researcher and academician with expertise in **Artificial Intel
 - **Image Processing**  
 - **Bioinformatics**  
 - **Cyber Security**
+- **Robotics**
 
 ---
 
@@ -102,12 +103,13 @@ _Comilla University, Cumilla, Bangladesh_
 - **President**, ICT Programming Club (2011-2013)  
 - **Member**, Bangladesh Open Source Network (BDOSN)  
 - **Education & Research Secretary**, ICT Association (2015-2016)
+- **Associate Member**, Bangladesh Computer Council
 
 ---
 
 ## 📈 Projects
 
-- **Convolutional Neural Network (CNN)** for Object Detection  
+- **Convolutional Neural Network (CNN) based ** Object Detection  
 - **Deep Learning Models** for Bangla Sentiment Analysis  
 - **Smart Security Solution** for Vehicles using Machine Learning
 
