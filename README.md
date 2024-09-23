@@ -1,4 +1,5 @@
-# Md Mynoddin - Assistant Professor, Department of Computer Science and Engineering  
+# Md Mynoddin 
+_Assistant Professor, Department of Computer Science and Engineering_
 _Rangamati Science and Technology University, Bangladesh_
 
 Welcome to my GitHub page! I am currently working as an Assistant Professor in the Department of CSE at Rangamati Science and Technology University. My areas of interest include Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Image Processing, Bioinformatics, and Cyber Security.
@@ -15,24 +16,6 @@ Welcome to my GitHub page! I am currently working as an Assistant Professor in t
 - **Cyber Security**
 
 ---
-
-## Education  
-### Master of Science (Engg.) in Information and Communication Technology  
-_Comilla University, Cumilla, Bangladesh_  
-CGPA: 3.75/4.00 (Completed in 2017)  
-
-### Bachelor of Science (Engg.) in Information and Communication Technology  
-_Comilla University, Cumilla, Bangladesh_  
-CGPA: 3.78/4.00 (Completed in 2015)
-
----
-
-## Professional Experience  
-- **Assistant Professor**, CSE Department, Rangamati Science and Technology University (2022 - Present)  
-- **Lecturer**, CSE Department, Rangamati Science and Technology University (2020 - 2022)  
-- **Lecturer**, IT Department, University of Information Technology & Sciences (2018 - 2020)  
-- **Lecturer**, CSE Department, Port City International University (2017 - 2018)
-
 ---
 
 ## Selected Publications  
@@ -53,6 +36,25 @@ CGPA: 3.78/4.00 (Completed in 2015)
    [DOI: 10.1109/TENSYMP52854.2021.9550811](https://doi.org/10.1109/TENSYMP52854.2021.9550811)
 
 ---
+
+
+## Education  
+### Master of Science (Engg.) in Information and Communication Technology  
+_Comilla University, Cumilla, Bangladesh_  
+CGPA: 3.75/4.00
+
+### Bachelor of Science (Engg.) in Information and Communication Technology  
+_Comilla University, Cumilla, Bangladesh_  
+CGPA: 3.78/4.00
+
+---
+
+## Professional Experience  
+- **Assistant Professor**, CSE Department, Rangamati Science and Technology University (2022 - Present)  
+- **Lecturer**, CSE Department, Rangamati Science and Technology University (2020 - 2022)  
+- **Lecturer**, IT Department, University of Information Technology & Sciences (2018 - 2020)  
+- **Lecturer**, CSE Department, Port City International University (2017 - 2018)
+
 
 ## Skills  
 - **Programming Languages**: C/C++, Java, Python  
