@@ -16,8 +16,6 @@ Welcome to my GitHub page! I am currently working as an Assistant Professor in t
 - **Cyber Security**
 
 ---
----
-
 ## Selected Publications  
 1. **Deep-ABSA: A Multichannel Deep Learning Framework For Aspect-Based Bangla Sentiment Analysis**  
    _M. M. Islam, G. M. Sakhawat Hossain, D. Sarma, R. Chakma, M. Mynoddin_  
@@ -37,7 +35,11 @@ Welcome to my GitHub page! I am currently working as an Assistant Professor in t
 
 ---
 
+## Research Projects  
+- **Master's Thesis**: Object Detection using Convolutional Neural Networks (CNNs)  
+- **Bachelor Senior Year Project**: Face Recognition Using Eigenvector and PCA  
 
+---
 ## Education  
 ### Master of Science (Engg.) in Information and Communication Technology  
 _Comilla University, Cumilla, Bangladesh_  
@@ -58,22 +60,17 @@ CGPA: 3.78/4.00
 
 ## Skills  
 - **Programming Languages**: C/C++, Java, Python  
-- **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch  
+- **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch, OpenCV
 - **Web Development**: HTML, CSS, PHP, JavaScript, MySQL  
 - **Applications**: MATLAB, Anaconda, Octave  
 - **Operating Systems**: Windows, Linux  
 
 ---
 
-## Research Projects  
-- **Master's Thesis**: Object Detection using Convolutional Neural Networks (CNNs)  
-- **Bachelor Senior Year Project**: Face Recognition Using Eigenvector and PCA  
-
----
-
 ## Awards and Certifications  
 - Honorable Mention in several national ACM ICPC and IUPC Contests  
-- Certifications from Google Developers Group, Facebook, and various institutions  
+- Certifications from Google Developers Group, Facebook, and various institutions
+- ITEE Level 02 Full Passer 
 
 ---
 
