@@ -109,7 +109,7 @@ _Comilla University, Cumilla, Bangladesh_
 
 ## 📈 Projects
 
-- **Convolutional Neural Network (CNN) based ** Object Detection  
+- **Convolutional Neural Network (CNN) based** Object Detection  
 - **Deep Learning Models** for Bangla Sentiment Analysis  
 - **Smart Security Solution** for Vehicles using Machine Learning
 
