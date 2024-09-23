@@ -1,4 +1,4 @@
-# 👨‍🏫 Md Mynoddin  
+# Md Mynoddin  
 **Assistant Professor, Department of Computer Science and Engineering**  
 _Rangamati Science and Technology University, Bangladesh_
 
