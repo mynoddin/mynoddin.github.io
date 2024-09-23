@@ -1,14 +1,16 @@
-# Md Mynoddin 
-_Assistant Professor, Department of Computer Science and Engineering_
+# 👨‍🏫 Md Mynoddin  
+**Assistant Professor, Department of Computer Science and Engineering**  
 _Rangamati Science and Technology University, Bangladesh_
 
-Welcome to my GitHub page! I am currently working as an Assistant Professor in the Department of CSE at Rangamati Science and Technology University. My areas of interest include Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Image Processing, Bioinformatics, and Cyber Security.
+![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourgithubusername?style=social)
+
+I am a dedicated researcher and academician with expertise in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Cyber Security**. My work aims to advance technologies that improve human lives, security, and system efficiency. I am passionate about applying deep learning techniques to solve real-world problems in image processing, bioinformatics, and beyond.
 
 ---
 
-## Research Interests  
+## 🔬 Research Interests  
 - **Artificial Intelligence**  
-- **Machine/Deep Learning**  
+- **Machine Learning / Deep Learning**  
 - **Natural Language Processing**  
 - **Computer Vision**  
 - **Image Processing**  
@@ -16,7 +18,9 @@ Welcome to my GitHub page! I am currently working as an Assistant Professor in t
 - **Cyber Security**
 
 ---
-## Selected Publications  
+
+## 📚 Selected Publications
+
 1. **Deep-ABSA: A Multichannel Deep Learning Framework For Aspect-Based Bangla Sentiment Analysis**  
    _M. M. Islam, G. M. Sakhawat Hossain, D. Sarma, R. Chakma, M. Mynoddin_  
    [DOI: 10.1109/WCONF58270.2023.10234988](https://doi.org/10.1109/WCONF58270.2023.10234988)
@@ -33,47 +37,89 @@ Welcome to my GitHub page! I am currently working as an Assistant Professor in t
    _M. J. Alam, D. Sarma, R. J. Chakma, M. Mynoddin, S. Chowdhury_  
    [DOI: 10.1109/TENSYMP52854.2021.9550811](https://doi.org/10.1109/TENSYMP52854.2021.9550811)
 
----
-
-## Research Projects  
-- **Master's Thesis**: Object Detection using Convolutional Neural Networks (CNNs)  
-- **Bachelor Senior Year Project**: Face Recognition Using Eigenvector and PCA  
+_For a complete list of my publications, please visit my [Google Scholar Profile]([https://scholar.google.com/citations?user=GJdr1I0AAAAJ&hl=en])._
 
 ---
-## Education  
-### Master of Science (Engg.) in Information and Communication Technology  
+## 🎓 Education
+
+### **Master of Science (Engg.) in Information and Communication Technology**  
 _Comilla University, Cumilla, Bangladesh_  
-CGPA: 3.75/4.00
+**CGPA**: 3.75/4.00  
+_Completed in 2017_
 
-### Bachelor of Science (Engg.) in Information and Communication Technology  
+### **Bachelor of Science (Engg.) in Information and Communication Technology**  
 _Comilla University, Cumilla, Bangladesh_  
-CGPA: 3.78/4.00
+**CGPA**: 3.78/4.00  
+_Completed in 2015_
 
 ---
 
-## Professional Experience  
+## 💼 Professional Experience
+
 - **Assistant Professor**, CSE Department, Rangamati Science and Technology University (2022 - Present)  
 - **Lecturer**, CSE Department, Rangamati Science and Technology University (2020 - 2022)  
 - **Lecturer**, IT Department, University of Information Technology & Sciences (2018 - 2020)  
 - **Lecturer**, CSE Department, Port City International University (2017 - 2018)
 
+---
 
-## Skills  
-- **Programming Languages**: C/C++, Java, Python  
-- **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch, OpenCV
-- **Web Development**: HTML, CSS, PHP, JavaScript, MySQL  
-- **Applications**: MATLAB, Anaconda, Octave  
-- **Operating Systems**: Windows, Linux  
+## 💻 Skills
+
+### **Programming Languages**
+- C/C++, Java, Python  
+- TensorFlow, PyTorch, Keras  
+- OpenCV  
+
+### **Web Development**
+- HTML, CSS, PHP, JavaScript, MySQL  
+
+### **Applications**
+- MATLAB, Anaconda, Octave  
+
+### **Operating Systems**
+- Windows, Linux
 
 ---
 
-## Awards and Certifications  
-- Honorable Mention in several national ACM ICPC and IUPC Contests  
-- Certifications from Google Developers Group, Facebook, and various institutions
-- ITEE Level 02 Full Passer 
+## 🚀 Research Projects
+
+- **Master's Thesis**: _Object Detection using Convolutional Neural Networks (CNNs)_  
+   - _Supervised by Dr. Dulal Chakraborty, Comilla University_
+   
+- **Bachelor's Senior Year Project**: _Face Recognition Using Eigenvector and Principal Component Analysis (PCA)_  
+   - _Supervised by Dr. Dulal Chakraborty, Comilla University_
 
 ---
 
-## Get in Touch  
+## 🏆 Awards & Certifications
+
+- **Honorable Mention** in several national ACM ICPC and IUPC Contests  
+- **Certifications** from Google Developers Group, Facebook, and other institutions including:
+  - ITEE FE Level-02 Passer
+  - Google Cloud Platform Essentials (GDG Bangla)
+  - Teacher Training and Development by CTD, PCIU
+
+---
+
+## 🤝 Community & Leadership
+
+- **Coach** and **Mentor** for ACM Programming Teams and Clubs  
+- **President**, ICT Programming Club (2011-2013)  
+- **Member**, Bangladesh Open Source Network (BDOSN)  
+- **Education & Research Secretary**, ICT Association (2015-2016)
+
+---
+
+## 📈 Projects
+
+- **Convolutional Neural Network (CNN)** for Object Detection  
+- **Deep Learning Models** for Bangla Sentiment Analysis  
+- **Smart Security Solution** for Vehicles using Machine Learning
+
+---
+
+## 🎯 Get in Touch
+
 - **Email**: mynoddin@rmstu.ac.bd  
-- **LinkedIn**: [https://www.linkedin.com/in/mynoddin](https://www.linkedin.com/in/mynoddin)  
+- **LinkedIn**: [Md Mynoddin](https://www.linkedin.com/in/mynoddin)  
+- **GitHub**: [mynoddin](https://github.com/mynoddin)  
