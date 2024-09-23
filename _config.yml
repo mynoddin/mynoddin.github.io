@@ -1,6 +1,81 @@
 title: Md Mynoddin
 logo: assets/img/poto.png
-description: Open of PhD Position, Academician, Researcher
+description: Open for PhD Position | Academician | Researcher in AI, Machine Learning, NLP, and Cybersecurity
 # show_downloads: true
-google_analytics:
+#google_analytics: UA-XXXXXXXX-X  # Replace with your Google Analytics tracking ID
 theme: jekyll-theme-minimal
+
+# Site settings
+email: mmynoddin@gmail.com
+github_username: mynoddin
+linkedin_username: mynoddin
+twitter_username: mynoddinkhan  # Optional, if you have Twitter
+url: https://mynoddin.github.io  # Replace with your actual GitHub page URL
+baseurl: ""  # Leave empty if deploying to root of domain
+
+# Social media links
+social_links:
+  - name: GitHub
+    url: https://github.com/mynoddin
+    icon: fab fa-github
+  - name: LinkedIn
+    url: https://linkedin.com/in/mynoddin
+    icon: fab fa-linkedin
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=GJdr1I0AAAAJ&hl=en
+    icon: fas fa-graduation-cap
+  - name: ResearchGate
+    url: https://www.researchgate.net/profile/Md-Mynoddin
+    icon: fas fa-flask
+  - name: Email
+    url: mailto:mynoddin@rmstu.ac.bd
+    icon: fas fa-envelope
+
+# Profile picture
+avatar: /assets/img/poto.png  # Your profile picture path
+favicon: /assets/img/favicon.ico  # Optional: Add a favicon
+
+# Navigation
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Footer settings
+footer:
+  text: © 2024 Md Mynoddin | Open for PhD Position
+  social:
+    - name: GitHub
+      url: https://github.com/mynoddin
+    - name: LinkedIn
+      url: https://linkedin.com/in/mynoddin
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=GJdr1I0AAAAJ&hl=en
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Md-Mynoddin
+
+# Plugins
+plugins:
+  - jekyll-seo-tag  # To improve SEO
+  - jekyll-sitemap  # For better site crawling
+  - jekyll-feed     # Adds RSS feed
+  - jekyll-paginate # Enables pagination for blog posts
+
+# Pagination settings
+paginate: 5  # Show 5 posts per page, if using a blog
+
+# SEO settings
+#google_analytics: UA-XXXXXXXX-X  # Replace with your own Google Analytics ID
+markdown: kramdown
+
+# Optional configurations
+timezone: "Asia/Dhaka"
