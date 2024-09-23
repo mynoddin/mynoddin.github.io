@@ -3,7 +3,8 @@ logo: assets/img/poto.png
 description: Open for PhD Position | Academician | Researcher in AI, Machine Learning, NLP, and Cybersecurity
 # show_downloads: true
 google_analytics: 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
 # Site settings
 email: mynoddin@rmstu.ac.bd
