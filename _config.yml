@@ -2,11 +2,11 @@ title: Md Mynoddin
 logo: assets/img/poto.png
 description: Open for PhD Position | Academician | Researcher in AI, Machine Learning, NLP, and Cybersecurity
 # show_downloads: true
-#google_analytics: UA-XXXXXXXX-X  # Replace with your Google Analytics tracking ID
+google_analytics: 
 theme: jekyll-theme-minimal
 
 # Site settings
-email: mmynoddin@gmail.com
+email: mynoddin@rmstu.ac.bd
 github_username: mynoddin
 linkedin_username: mynoddin
 twitter_username: mynoddinkhan  # Optional, if you have Twitter
