@@ -4,13 +4,14 @@ _Rangamati Science and Technology University, Bangladesh_
 
 ![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourgithubusername?style=social)
 
-I am a dedicated researcher and academician with expertise in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Cyber Security**. My work aims to advance technologies and work for new technologies that improve human lives, security, and system efficiency. I am passionate about applying deep learning techniques to solve real-world problems in NLP, image processing, bioinformatics, and beyond.
+I am a dedicated researcher and academician with expertise in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Data Science**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Cyber Security**. My work aims to advance technologies and work for new technologies that improve human lives, security, and system efficiency. I am passionate about applying deep learning techniques to solve real-world problems in NLP, image processing, bioinformatics, and beyond.
 
 ---
 
 ## 🔬 Research Interests  
 - **Artificial Intelligence**  
-- **Machine Learning / Deep Learning**  
+- **Machine Learning**
+- **Data Science**  
 - **Natural Language Processing**  
 - **Computer Vision**  
 - **Image Processing**  
@@ -84,7 +85,7 @@ _Comilla University, Cumilla, Bangladesh_
 
 - **Master's Thesis**: _Object Detection using Convolutional Neural Networks (CNNs)_  
   
-- **Bachelor's Senior Year Project**: _Face Recognition Using Eigenvector and Principal Component Analysis (PCA)_  
+- **Bachelors Senior Year Project**: _Face Recognition Using Eigenvector and Principal Component Analysis (PCA)_  
 ---
 
 ## 🏆 Awards & Certifications
