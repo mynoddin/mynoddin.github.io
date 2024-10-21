@@ -4,8 +4,8 @@ description: Open for PhD Position | Academician | Researcher
 # show_downloads: true
 google_analytics: 
 #theme: jekyll-theme-minimal
-#theme: minimal-mistakes-jekyll
-theme: jekyll-theme-cayman-blog
+theme: minimal-mistakes-jekyll
+#theme: jekyll-theme-cayman-blog
 
 # Site settings
 email: mynoddin@rmstu.ac.bd
