@@ -1,5 +1,3 @@
-
-# Md Mynoddin  
 **Assistant Professor, Department of Computer Science and Engineering**  
 _Rangamati Science and Technology University, Bangladesh_
 
@@ -84,7 +82,6 @@ _Comilla University, Cumilla, Bangladesh_
 ## 🚀 Research Projects
 
 - **Master's Thesis**: _Object Detection using Convolutional Neural Networks (CNNs)_  
-  
 - **Bachelors Senior Year Project**: _Face Recognition Using Eigenvector and Principal Component Analysis (PCA)_  
 ---
 
