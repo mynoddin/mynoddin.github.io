@@ -2,15 +2,19 @@
 _Rangamati Science and Technology University, Bangladesh_
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourgithubusername?style=social) -->
-I am a dedicated researcher and academician with expertise in **Cyber Security, Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Science, Computer Vision, and Medical Image Processing**. Recently, I have developed a keen interest in **Quantum Computing**, a transformative paradigm, as well as in **Large Language Models (LLMs), AI Security and Privacy, and Trustworthy AI**—areas that are increasingly crucial in building robust, ethical, and responsible intelligent systems. My work aims to advance technologies that enhance human life, bolster security, and improve system efficiency. I am passionate about applying deep learning techniques to solve real-world problems in NLP, image processing, bioinformatics, and beyond.
+<!--I am a dedicated researcher and academician with expertise in **Cyber Security, Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Science, Computer Vision, and Medical Image Processing**. Recently, I have developed a keen interest in **Quantum Computing**, a transformative paradigm, as well as in **Large Language Models (LLMs), AI Security and Privacy, and Trustworthy AI**—areas that are increasingly crucial in building robust, ethical, and responsible intelligent systems. My work aims to advance technologies that enhance human life, bolster security, and improve system efficiency. I am passionate about applying deep learning techniques to solve real-world problems in NLP, image processing, bioinformatics, and beyond. -->
+I am a dedicated researcher and academician with expertise in **Cybersecurity, Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Science, Computer Vision, and Medical Image Processing**. My recent work and growing interest focus on **Large Language Models (LLMs), Knowledge-Aware Reasoning, Trustworthy and Explainable AI, and AI Security and Privacy**, particularly in the context of building robust and ethically-aligned intelligent systems.
+
+Additionally, I have begun exploring **Quantum Computing and Federated Learning**, aiming to bridge foundational AI with emerging paradigms in security, privacy, and distributed intelligence. My research vision lies in solving real-world challenges using deep learning and NLP techniques, especially in domains like cyber threat intelligence, bioinformatics, and multi-modal AI applications.
 
 ---
 
 ## 🔬 Research Interests  
+- **Large Language Models**
+- **Natural Language Processing**  
 - **Cyber Security**    
 - **Machine Learning**
 - **Data Science**  
-- **Natural Language Processing**  
 - **Computer Vision**  
 - **Medical Image Processing**  
 - **Bioinformatics**  
