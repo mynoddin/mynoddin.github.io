@@ -1,4 +1,6 @@
 **Assistant Professor, Department of Computer Science and Engineering**  
+and 
+**Assistant Director(In-Charge), Research and Innovation Management Cell(RIMC)**
 _Rangamati Science and Technology University, Bangladesh_
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourgithubusername?style=social) -->
